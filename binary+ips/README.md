@@ -20,7 +20,7 @@ Just for clarity a base 10 table (the system we use for numbers normally) for 19
 | ------------- | ------------- | ------------- | ------------- |
 |  0  | 1   | 9  |8 |
 
-# :globe_with_meridians: :milky_way: IP addresses :signal_strength: #
+## :globe_with_meridians: :milky_way: IP addresses :signal_strength: ##
 
 IPv4 use 8 bit binary for the four numbers in the address. This means there are 8 numbers (the same system we used in the binary table above!) that can be 1 or 0 as seen below!
 
