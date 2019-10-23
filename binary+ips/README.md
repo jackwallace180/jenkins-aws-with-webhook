@@ -1,6 +1,6 @@
 # Binary and IP Adresses :key: :taco: :key: #
 
-## :interrobang: Binary :zero::one::zero: ##
+## :interrobang: Binary :zero::one::zero::one: ##
 
 Binary uses a base 2 system, so each digit represents the next power of 2 (compared to our normal number system which is base 10 so every new digit represents the next power of 10). This means in binary each digit can only be 0 or 1. so the first digit in a binary number represents 2^0 and the second digit 2^1, 3rd digit 2^2 etc. Again compared to our number system which digits is 10^0, 10^1, 10^2 etc. Below is a binary table for the first 8 digits (this will be able to make any number up to 255)
 
