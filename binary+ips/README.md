@@ -28,3 +28,5 @@ Which as we can see the first 18 digits match! so these IPs can communicate thro
 Often when you see IPs they will have a " / " and a number (often 8,16,24 or 32). This is known as the CIDR block. CIDR blocks count how many 1's come up in a row from the LHS in a submask. So using our example from earlier our submask has 18 1's in a row which means our CIDR block for this submask would be /18. So we can write our IP addresses like 192.96.8.10/18. So now we know if any IP address has the same first 18 binary digits as our IP address they can communicate.
 
 CIDR blocks are VERY regularly written as /8 /16 /24 /32. /8 means that the first number of an IP has to be exactly the same. This is nice as we dont even have to convert to binary which is a tedious task. /16 would mean the first 2 numbers in the IP are the same and so on.
+
+So if we see an IP address such as 200.210.64.12/16 we know that any IP that starts with 200.210... will be able to communicate with it.
