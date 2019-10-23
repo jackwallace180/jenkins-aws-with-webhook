@@ -1,6 +1,6 @@
 # Binary and IP Adresses :key: :taco: :key: #
 
-## Binary :100: :interrobang: :repeat_one: ##
+## :interrobang: Binary :zero::one::zero: ##
 
 Binary uses a base 2 system, so each digit represents the next power of 2 (compared to our normal number system which is base 10 so every new digit represents the next power of 10). This means in binary each digit can only be 0 or 1. so the first digit in a binary number represents 2^0 and the second digit 2^1, 3rd digit 2^2 etc. Again compared to our number system which digits is 10^0, 10^1, 10^2 etc. Below is a binary table for the first 8 digits (this will be able to make any number up to 255)
 
@@ -20,7 +20,7 @@ Just for clarity a base 10 table (the system we use for numbers normally) for 19
 | ------------- | ------------- | ------------- | ------------- |
 |  0  | 1   | 9  |8 |
 
-# IP addresses :signal_strength: #
+# :globe_with_meridians: :milky_way: IP addresses :signal_strength: #
 
 IPv4 use 8 bit binary for the four numbers in the address. This means there are 8 numbers (the same system we used in the binary table above!) that can be 1 or 0 as seen below!
 
