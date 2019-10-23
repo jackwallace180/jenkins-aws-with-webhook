@@ -2,11 +2,17 @@
 
 ## Binary ##
 
-Binary uses a base 2 system, so each digit represents the next power of 2 (compared to our normal number system which is base 10 so every new digit represents the next power of 10). This means in binary each digit can only be 0 or 1. so the first digit in a binary number represents 2^0 and the second digit 2^1, 3rd digit 2^2 etc. Again compared to our number system which digits is 10^0, 10^1, 10^2 etc. Below is a binary table for the first 8 digits
+Binary uses a base 2 system, so each digit represents the next power of 2 (compared to our normal number system which is base 10 so every new digit represents the next power of 10). This means in binary each digit can only be 0 or 1. so the first digit in a binary number represents 2^0 and the second digit 2^1, 3rd digit 2^2 etc. Again compared to our number system which digits is 10^0, 10^1, 10^2 etc. Below is a binary table for the first 8 digits (this will be able to make any number up to 255)
 
 | 128  | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  0 or 1  | 0 or 1   | 0 or 1   |   0 or 1 |  0 or 1  | 0 or 1   |0 or 1    |0 or 1    |
+
+An example we shall use here is the number 198, to change this into binary first start from the left of this table and see if 128 will go into it. 128 does go into 198 so we put a 1 in that column. We then have 70 left over, so next we look at the 64 column, 64 does go into 70 so again we put a 1. We now have 6 left over and go to the next column which is 32, 32 does not go into 6 so we put a 0. Next column is 16 which again does not go into 6 so we put a 0 in that column, the same for the 8 column. Then we get to the 4 column, 4 does go into 6 so we put a 1 and have 2 left over. The next column is 2, and 2 does go into 2 so we put a 1 and have 0 left over, the last column is 1 but 1 does not go into 0 so we put a 0. Our table for 198 will look like this:
+
+| 128  | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  1  | 1   | 0   |   0 |  0  | 1   |1    |0 |
 
 
 
