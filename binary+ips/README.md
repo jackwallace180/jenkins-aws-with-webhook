@@ -1,5 +1,16 @@
 # Binary and IP Adresses :key: :taco: :key: #
 
+## Binary ##
+
+Binary uses a base 2 system, so each digit represents the next power of 2 (compared to our normal number system which is base 10 so every new digit represents the next power of 10). This means in binary each digit can only be 0 or 1. so the first digit in a binary number represents 2^0 and the second digit 2^1, 3rd digit 2^2 etc. Again compared to our number system which digits is 10^0, 10^1, 10^2 etc.
+
+| 128  | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|    |    |    |    |    |    |    |    |
+
+
+# IP addresses #
+
 IPv4 use 8 bit binary for the four numbers in the address. This means there are 8 numbers that can be 1 or 0 as seen below!
 
 ![binary](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ipv4_address.svg/300px-Ipv4_address.svg.png)
