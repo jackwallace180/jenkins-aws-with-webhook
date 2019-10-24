@@ -26,6 +26,8 @@ IPv4 use 8 bit binary for the four numbers in the address. This means there are 
 
 ![binary](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ipv4_address.svg/300px-Ipv4_address.svg.png)
 
+An easy was to find you  IP address is to type in "ipconfig" into gitbash! This will also show you your subnet mask which we will talk about next.
+
 ## :mask: :beers: Submask and CIDR :beers: :mask: ##
 
 ### Submask ###
